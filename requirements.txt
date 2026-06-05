@@ -1,0 +1,7 @@
+pyqt5
+pytesseract
+mss
+numpy
+opencv-python
+requests
+pynput
